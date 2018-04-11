@@ -1,7 +1,9 @@
 # PythonStart
-Author: JxWu\n
+Author: JxWu
 
-April/1st/2018   \n
-Python exercise project in purpose of improve programming skill \n
+April/1st/2018  
+
+Python exercise project in purpose of improve programming skill 
+
 This Python Project begin with fundamental materials
 
