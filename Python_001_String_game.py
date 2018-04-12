@@ -1,3 +1,5 @@
+
+
 print ('-----------Python start------------')
 temp = input("Guess Jx faviourate number [1 2 3 4 5 6]:")
 guess = int(temp)
