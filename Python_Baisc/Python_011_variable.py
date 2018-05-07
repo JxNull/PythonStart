@@ -22,8 +22,8 @@ def print_v_c():
   a="I am a local variable"
   print(a)
 
-def print_v_d():
-  print(a)
+def print_v_d(x):
+  print(x)
  
 print_v_c()      # result in "I am local variable"
 print_v_d(a)      # result in "I am global variable"
