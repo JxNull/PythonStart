@@ -2,7 +2,7 @@
 #Author: Jingxiong Wu
 
 #May/11/2018   
-#Python exercise project 10
+#Python exercise project 25
 
 ''' Class and Objects'''
 
