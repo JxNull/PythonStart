@@ -11,12 +11,12 @@ class Token:
 
     def buyticket(self):
         print('1 token used\n')
-        self.supply-=1
+        if self.supply>=1:
+            self.supply-=1
+        else:
+            print("You should buy more token.\n")
 
     def checktoken(self):
-        if self.supply<=0:
-            print("You should buy more token.\n")
-        else:
             print("Token avaliable:" + str(self.supply))
 
 
